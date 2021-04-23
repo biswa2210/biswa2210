@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm BISWARUP BHATTACHARJEE</h1>
 
-- 👨‍💻 You can check out my portfolio at [https://github.com/biswa2210](https://github.com/biswa2210)
+- 👨‍💻 You can check out my portfolio at **[https://github.com/biswa2210](https://github.com/biswa2210)**
 
 - 📫 How to contact me by email: **bbiswa471@gmail.com**
 

@@ -9,14 +9,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-## I'm a Student, Programmer and Developer!!!!
+## I'm a Student, Programmer and Learner!!!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I launch my projects in Github
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 
+- 🥅 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to watch movies and eat tasty food
+
 <a href="https://facebook.com/biswarup.bhattacharjee.5811" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="biswa2210" height="30" width="40" /></a>
 <a href="https://instagram.com/biswarup2210?igshid=7pqq1w36dtjn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
@@ -38,11 +38,7 @@
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> 
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/devc++/devc++.png"></code> 
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visualstudiocode/visualstudiocode.png"></code> 
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyternotebook/jupyternotebook.png"></code> 
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> 
-<div align="center">
+
 
 ### Show some ❤️ by starring some of the repositories!
 

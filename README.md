@@ -44,4 +44,9 @@
 
 ### Show some ❤️ by starring some of the repositories!
 
+## RESEARCH PAPER PUBLISHED IJRESM ON Web-Based Dynamic Algorithm Visualizer Along with Chat Engine SDK for Neophytes :point_down:
+
+**https://journals.resaim.com/ijresm/article/view/1290<br>
+https://journals.resaim.com/ijresm/article/view/1290/1234**
+
 </div>

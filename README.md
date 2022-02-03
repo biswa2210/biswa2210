@@ -24,10 +24,10 @@
 
 ## My Internships
 
-- Forage Goldman Sachs : :point_right: <a href="https://drive.google.com/file/d/1XvE1uTb7liIfPf9b6iu-J11C7QZ2O_8Y/view"Cirtificate></a>
-- Forage AWS : :point_right: <a href="https://drive.google.com/file/d/1OgiKcC6jqqSuryReTl8wUgw1t336yokU/view"Cirtificate></a>
-- Forage Deloitte : :point_right: <a href="https://drive.google.com/file/d/18eiXXIipzIbm_uwRY5jYoSPjRBhz3jmu/view"Cirtificate></a>
-- Cool Cab App under Professor of Uemk : :point_right: <a href="https://drive.google.com/file/d/1-KAngbh-jj6uboHCFHTug6MUIYODuy1Q/view"Cirtificate></a>
+- Forage Goldman Sachs : :point_right: <a href="https://drive.google.com/file/d/1XvE1uTb7liIfPf9b6iu-J11C7QZ2O_8Y/view">Cirtificate</a>
+- Forage AWS : :point_right: <a href="https://drive.google.com/file/d/1OgiKcC6jqqSuryReTl8wUgw1t336yokU/view">Cirtificate</a>
+- Forage Deloitte : :point_right: <a href="https://drive.google.com/file/d/18eiXXIipzIbm_uwRY5jYoSPjRBhz3jmu/view">Cirtificate</a>
+- Cool Cab App under Professor of Uemk : :point_right: <a href="https://drive.google.com/file/d/1-KAngbh-jj6uboHCFHTug6MUIYODuy1Q/view">Cirtificate</a>
 
 
 ## My Areas Interests

@@ -28,6 +28,7 @@
 ## Forage AWS Solutions Architect Virtual Internship Program: :point_right: <a href="https://drive.google.com/file/d/1AtUlmq-I8-hEi_1jafMX3VUHBhnclsjU/view">Cirtificate</a>
 ## Forage Deloitte Technology Consulting Virtual Internships: :point_right: <a href="https://drive.google.com/file/d/1sIWMlGPS_UhkkhQAoieaFUvIqJOgmc0D/view">Cirtificate</a>
 ## Cool Cab App under Prof. Sankhadeep Chatterjee of UEMK : :point_right: <a href="https://drive.google.com/file/d/1BWM9vEPmkX7nwRvce68l4fFmDBRvpvLC/view">Cirtificate</a>
+## Mask Detection System with Covid Updates under Prof. Sudipto Kumar Mondal of UEMK :point_right: <a href="https://drive.google.com/file/d/1BWM9vEPmkX7nwRvce68l4fFmDBRvpvLC/view">Cirtificate</a>
 
 
 ## My Areas Interests

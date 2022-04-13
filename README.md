@@ -1,7 +1,4 @@
-@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm BISWARUP BHATTACHARJEE</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=E9CB45&size=30&lines=Flutter+Developer...;I'm+also+Machine+Learning+Engineer+&+Data+scientist;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=E9CB45&size=30&lines=Flutter+Developer...;Machine+Learning+Engineer+&+Data+scientist;)](https://git.io/typing-svg)
 - 👨‍💻 You can check out my portfolio at **[https://github.com/biswa2210](https://github.com/biswa2210)**
 
 - 📫 How to contact me by email: **bbiswa471@gmail.com**

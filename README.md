@@ -65,7 +65,7 @@ https://journals.resaim.com/ijresm/article/view/1290/1234**
 
 **https://www.irjet.net/archives/V8/i11/IRJET-V8I11259.pdf**
 
-## CONFERENCE PAPER OR E-BOOK PUBLISHED ON SPRINGER'S COMPUTATIONAL INTELLIGENCE AND PATTERN RECOGNITION ON Deep Learning Based Facial Mask Detection Using Mobilenetv2 :point_down:
+## CONFERENCE PAPER PUBLISHED ON SPRINGER'S COMPUTATIONAL INTELLIGENCE AND PATTERN RECOGNITION 2022 ON Deep Learning Based Facial Mask Detection Using Mobilenetv2 :point_down:
 
 **https://link.springer.com/chapter/10.1007/978-981-19-3089-8_8**
 

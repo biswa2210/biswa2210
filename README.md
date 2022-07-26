@@ -6,9 +6,9 @@
 
 - ⚡ contact me : **6290272740**
 
-## My portfolio website link--> :point-right: https://biswa2210.netlify.app/
+## My portfolio website link--> :point_right: https://biswa2210.netlify.app/
 
-## My all projects link--> :point-right: https://biswa2210-all-projects.netlify.app/
+## My all projects link--> :point_right: https://biswa2210-all-projects.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 
